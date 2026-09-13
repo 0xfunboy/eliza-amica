@@ -132,6 +132,8 @@ This project originated as a fork of ChatVRM by Pixiv:
 [https://pixiv.github.io/ChatVRM](https://pixiv.github.io/ChatVRM)
 
 ## 🔒 License
+
+Licensing scope and preserved third-party permissions are documented in [LICENSING.md](LICENSING.md). The [0xfunboy Non-Commercial License](LICENSE.md) covers eligible original material only.
 * The majority of this project is released under the MIT license as found in the [LICENSE](https://github.com/semperai/amica/blob/master/LICENSE) file.
 * Assets such as 3D models and images are released under their authors respective licenses.
 
